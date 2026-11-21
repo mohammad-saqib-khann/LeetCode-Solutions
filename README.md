@@ -21,6 +21,7 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -82,6 +83,7 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1603-design-parking-system](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Quicksort
 |  |
 | ------- |
@@ -90,4 +92,8 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
