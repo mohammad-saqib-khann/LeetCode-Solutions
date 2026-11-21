@@ -7,6 +7,7 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -30,6 +31,7 @@ My Java LeetCode practice solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -56,6 +58,7 @@ My Java LeetCode practice solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -77,4 +80,12 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
