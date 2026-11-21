@@ -6,6 +6,7 @@ My Java LeetCode practice solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -43,4 +44,8 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
