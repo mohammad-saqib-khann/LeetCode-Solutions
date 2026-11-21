@@ -23,4 +23,12 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
