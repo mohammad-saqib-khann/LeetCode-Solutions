@@ -6,6 +6,7 @@ My Java LeetCode practice solutions
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -33,4 +34,8 @@ My Java LeetCode practice solutions
 | ------- |
 | [0125-valid-palindrome](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
