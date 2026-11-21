@@ -10,6 +10,7 @@ My Java LeetCode practice solutions
 | [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1470-shuffle-the-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
