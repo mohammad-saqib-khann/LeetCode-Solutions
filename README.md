@@ -7,6 +7,7 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -49,6 +50,7 @@ My Java LeetCode practice solutions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
