@@ -10,6 +10,7 @@ My Java LeetCode practice solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -100,4 +101,8 @@ My Java LeetCode practice solutions
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammad-saqib-khann/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
